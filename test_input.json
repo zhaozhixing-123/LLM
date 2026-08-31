@@ -1,0 +1,9 @@
+{
+  "input": {
+    "prompt": "Answer with only the city name: What is the capital of France?",
+    "max_new_tokens": 64,
+    "temperature": 0.0,
+    "top_k": 50,
+    "seed": 42
+  }
+}
